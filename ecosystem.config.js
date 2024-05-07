@@ -1,6 +1,6 @@
 module.exports = {
   apps: [{
-    name: 'QuoteBot',
+    name: 'G-Foxy alıntıBot',
     script: './index.js',
     max_memory_restart: '1000M',
     // instances: 1,
