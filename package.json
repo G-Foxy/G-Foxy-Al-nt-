@@ -1,5 +1,5 @@
 {
-  "name": "G-Foxy quote-bot",
+  "name": "G-Foxy alıntı-bot",
   "version": "0.39.1",
   "description": "Telegram quote bot",
   "main": "index.js",
